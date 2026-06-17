@@ -7,9 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Pre-Final+Year+AI+%26+DS+Student;Full+Stack+Developer;GSSoC+Contributor;DSA+Enthusiast" />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400">
-</p>
+
 🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
 
 💻 Full Stack Developer | Open Source Contributor (GSSoC)
