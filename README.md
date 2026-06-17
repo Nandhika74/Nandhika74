@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
 📌 Featured Projects:
 - Gold Price Predictor
 - Amazon Product Recommendation System
@@ -41,5 +42,7 @@
 - Full Stack Developer Intern @ Altrocks Tech
 - Open Source Contributor @ GSSoC 2026
 
-📫 Connect with me:
-LinkedIn:www.linkedin.com/in/nandhika-s-247845327
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nandhika-s-247845327
+)
