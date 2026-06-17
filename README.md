@@ -6,10 +6,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nandhika;Pre-Final+Year+AI+%26+DS+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Future+Software+Engineer" />
 </p>
-![](https://komarev.com/ghpvc/?username=Nandhika74)
 🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
 
-##💻 Full Stack Developer | Open Source Contributor (GSSoC)
+## 💻 Full Stack Developer | Open Source Contributor (GSSoC)
 
 🌱 Currently Learning:
 - Data Structures & Algorithms
@@ -17,7 +16,7 @@
 - Spring Boot
 - System Design Basics
 
-##🚀 Tech Stack:
+## 🚀 Tech Stack:
 - C++
 - Java
 - Python
@@ -34,10 +33,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
 
-##📌 Featured Projects:
+## 📌 Featured Projects:
 - Gold Price Predictor
 - Amazon Product Recommendation System
 - Pediatric Care Hospital Management System
@@ -48,14 +45,20 @@
 - Iris Flower Classifier
 - Titanic Survival prediction
 
-##🏆 Achievements:
+## 🏆 Achievements:
 - Full Stack Developer Intern @ Altrocks Tech
 - Open Source Contributor @ GSSoC 2026
 - Care Hackathon FINALIST-Top 20
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact)
+
 ## 🌐 Connect With Me
 <p align="center">
-<a href="www.linkedin.com/in/nandhika-s-247845327
+<a href="https://www.linkedin.com/in/nandhika-s-247845327
 ">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
