@@ -1,6 +1,6 @@
  Hi there 👋, I'm Nandhika
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZwd2o5eHdvZW9zdHFqODY2ZHMyMzVxbmNjbmR4NDI1aTJ2dWk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZwd2o5eHdvZW9zdHFqODY2ZHMyMzVxbmNjbmR4NDI1aTJ2dWk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </p>
 # Hi, I'm Nandhika 👋
 
