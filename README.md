@@ -1,4 +1,5 @@
- Hi there 👋, I'm Nandhika
+<h1 align="center">Hi 👋, I'm Nandhika</h1>
+<h3 align="center">AI & Data Science Student | Full Stack Developer | Open Source Contributor</h3>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZwd2o5eHdvZW9zdHFqODY2ZHMyMzVxbmNjbmR4NDI1aTJ2dWk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </p>
@@ -6,8 +7,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nandhika;Pre-Final+Year+AI+%26+DS+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Future+Software+Engineer" />
 </p>
-🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
+##  👩‍💻 About Me
 
+- 🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
+- 💼 Former Full Stack Developer Intern @ Altrocks Tech
+- 🌟 Open Source Contributor @ GSSoC 2026
+- 🚀 Passionate about Software Development, AI/ML, and Problem Solving
+- 🎯 Currently preparing for Software Engineering Placements
 ## 💻 Full Stack Developer | Open Source Contributor (GSSoC)
 
 🌱 Currently Learning:
@@ -16,14 +22,7 @@
 - Spring Boot
 - System Design Basics
 
-## 🚀 Tech Stack:
-- C++
-- Java
-- Python
-- React.js
-- Spring Boot
-- SQL
-- Git & GitHub
+
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -54,9 +53,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact" height="170"/>
+</p>
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact)
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -69,3 +70,5 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
+---
+                                       💡 Learning, Building, Contributing.
