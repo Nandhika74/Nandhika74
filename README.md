@@ -9,15 +9,15 @@
 
 🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
 
-💻 Full Stack Developer | Open Source Contributor (GSSoC)
-
+##💻 Full Stack Developer | Open Source Contributor (GSSoC)
+![](https://komarev.com/ghpvc/?username=Nandhika74)
 🌱 Currently Learning:
 - Data Structures & Algorithms
 - Java
 - Spring Boot
 - System Design Basics
 
-🚀 Tech Stack:
+##🚀 Tech Stack:
 - C++
 - Java
 - Python
@@ -33,6 +33,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
 
 ##📌 Featured Projects:
 - Gold Price Predictor
