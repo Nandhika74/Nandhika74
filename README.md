@@ -35,15 +35,43 @@
 
 
 ## 📌 Featured Projects:
-- Gold Price Predictor
-- Amazon Product Recommendation System
-- Pediatric Care Hospital Management System
-- ZenMode Mobile Application
-- Farmverse Mobile Application
-- Food delivery Application
-- TaskGen WebApplication
-- Iris Flower Classifier
-- Titanic Survival prediction
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🪙 Gold Price Predictor
+ML model for forecasting gold prices using historical data.
+
+### 🛒 Amazon Recommendation System
+Personalized recommendation engine.
+
+### 🏥 Pediatric Care HMS
+Hospital management system built with Java.
+
+### 📱 ZenMode
+Productivity and wellness mobile application.
+
+</td>
+
+<td width="50%">
+
+### 🌾 FarmVerse
+Agriculture-focused mobile platform.
+
+### 🍔 Food Delivery App
+Full-stack food ordering system.
+
+### 📋 TaskGen
+Task management web application.
+
+### 🌸 Iris Classifier
+Machine learning classification model.
+
+</td>
+</tr>
+</table>
 
 ## 🏆 Achievements:
 - Full Stack Developer Intern @ Altrocks Tech
