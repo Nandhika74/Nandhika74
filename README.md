@@ -63,9 +63,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact" height="165">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandhika74&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
+
 ## 🎯 2026 Goals
 
 - Solve 300+ DSA Problems
