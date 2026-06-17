@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Nandhika
 
-<!--
-**Nandhika74/Nandhika74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | Open Source Contributor (GSSoC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Java
+- Spring Boot
+- System Design Basics
+
+🚀 Tech Stack:
+- C++
+- Java
+- Python
+- React.js
+- Spring Boot
+- SQL
+- Git & GitHub
+
+📌 Featured Projects:
+- Gold Price Predictor
+- Amazon Product Recommendation System
+- Pediatric Care Hospital Management System
+- ZenMode Mobile Application
+- Iris Flower Classifier
+- Titanic Survival Prediction
+- Food delivery Partner
+- TaskGen webApplication
+
+🏆 Achievements:
+- Full Stack Developer Intern @ Altrocks Tech
+- Open Source Contributor @ GSSoC
+
+📫 Connect with me:
+LinkedIn: www.linkedin.com/in/nandhika-s-247845327
