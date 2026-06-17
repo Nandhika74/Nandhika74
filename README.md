@@ -26,7 +26,7 @@
 - ZenMode Mobile Application
 - Iris Flower Classifier
 - Titanic Survival Prediction
-- Food delievery Partner
+- Food delivery Partner
 - TaskGen webApplication
 
 🏆 Achievements:
