@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandhika</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nandhika74&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <h3 align="center">AI & Data Science Student | Full Stack Developer | Open Source Contributor</h3>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZwd2o5eHdvZW9zdHFqODY2ZHMyMzVxbmNjbmR4NDI1aTJ2dWk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
@@ -16,24 +19,24 @@
 - 🚀 Passionate about Software Development, AI/ML, and Problem Solving
 - 🎯 Currently preparing for Software Engineering Placements
   
-## 💻 Full Stack Developer | Open Source Contributor (GSSoC)
+## 🌱 Currently Learning:
 
-🌱 Currently Learning:
 - Data Structures & Algorithms
 - Java
 - Spring Boot
 - System Design Basics
-
+- Open Source Contribution
 
 ## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+</p>
 
 ## 📌 Featured Projects:
 
@@ -53,16 +56,24 @@
 - Open Source Contributor @ GSSoC 2026
 - Care Hackathon FINALIST-Top 20
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact" height="165">
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nandhika74&theme=tokyonight" />
 </p>
+## 🎯 2026 Goals
 
+- Solve 300+ DSA Problems
+- Strengthen Java & Spring Boot
+- Contribute to Open Source Projects
+- Build Production-Ready Applications
+- Secure a Software Engineering Role
+  
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/nandhika-s-247845327
@@ -74,5 +85,8 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
----
-                                       💡 Learning, Building, Contributing.
+<hr>
+
+<h3 align="center">
+💡Turning Ideas into Projects, and Projects into Experience
+</h3>
