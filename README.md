@@ -6,11 +6,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nandhika;Pre-Final+Year+AI+%26+DS+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Future+Software+Engineer" />
 </p>
-
+![](https://komarev.com/ghpvc/?username=Nandhika74)
 🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
 
 ##💻 Full Stack Developer | Open Source Contributor (GSSoC)
-![](https://komarev.com/ghpvc/?username=Nandhika74)
+
 🌱 Currently Learning:
 - Data Structures & Algorithms
 - Java
