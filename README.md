@@ -35,44 +35,18 @@
 
 
 ## 📌 Featured Projects:
-<h2>🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🪙 Gold Price Predictor
-ML model for forecasting gold prices using historical data.
-
-### 🛒 Amazon Recommendation System
-Personalized recommendation engine.
-
-### 🏥 Pediatric Care HMS
-Hospital management system built with Java.
-
-### 📱 ZenMode
-Productivity and wellness mobile application.
-
-</td>
-
-<td width="50%">
-
-### 🌾 FarmVerse
-Agriculture-focused mobile platform.
-
-### 🍔 Food Delivery App
-Full-stack food ordering system.
-
-### 📋 TaskGen
-Task management web application.
-
-### 🌸 Iris Classifier
-Machine learning classification model.
-
-</td>
-</tr>
-</table>
-
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| 🪙 Gold Price Predictor | Python, ML | Predicts gold prices using historical market trends |
+| 🛒 Amazon Product Recommendation System | Python, ML | Personalized product recommendations |
+| 🏥 Pediatric Care Hospital Management System | Java, MySQL | Healthcare and patient management platform |
+| 📱 ZenMode Mobile App | Flutter | Productivity and wellness application |
+| 🌾 FarmVerse | Flutter, Firebase | Agriculture-focused mobile solution |
+| 🍔 Food Delivery Application | React, Spring Boot | Online food ordering and delivery platform |
+| 📋 TaskGen Web Application | React, Spring Boot | Task management and productivity tool |
+| 🌸 Iris Flower Classifier | Python, ML | Flower species classification model |
+| 🚢 Titanic Survival Prediction | Python, ML | Predictive analytics using Titanic dataset |
 ## 🏆 Achievements:
 - Full Stack Developer Intern @ Altrocks Tech
 - Open Source Contributor @ GSSoC 2026
