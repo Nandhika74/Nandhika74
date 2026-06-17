@@ -63,7 +63,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact" height="165">
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nandhika74" />
+</p>
 
 ## 🎯 2026 Goals
 
