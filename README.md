@@ -67,6 +67,12 @@
   <img src="https://streak-stats.demolab.com?user=Nandhika74" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nandhika74/Nandhika74/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🎯 2026 Goals
 
 - Solve 300+ DSA Problems
