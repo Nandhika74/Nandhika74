@@ -1,6 +1,6 @@
  Hi there 👋, I'm Nandhika
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB3Z3preDFzc2xwdmJ2azFvOXN6ZGdpamw2bnRmYWttMWZyMnNseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB3Z3preDFzc2xwdmJ2azFvOXN6ZGdpamw2bnRmYWttMWZyMnNseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" width="200">
 </p>
 🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science Student
 
