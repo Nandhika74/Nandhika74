@@ -18,7 +18,14 @@
 - Spring Boot
 - SQL
 - Git & GitHub
+## 🛠️ Tech Stack
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 📌 Featured Projects:
 - Gold Price Predictor
 - Amazon Product Recommendation System
@@ -29,7 +36,7 @@
 -TaskGen WebApplication
 -Iris Flower Classifier
 -Titanic Survival prediction
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
 🏆 Achievements:
 - Full Stack Developer Intern @ Altrocks Tech
 - Open Source Contributor @ GSSoC 2026
