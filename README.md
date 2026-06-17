@@ -57,7 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact" height="170"/>
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nandhika74" />
+</p>
 
 ## 🌐 Connect With Me
 <p align="center">
