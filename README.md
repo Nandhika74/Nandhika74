@@ -33,14 +33,15 @@
 - Pediatric Care Hospital Management System
 - ZenMode Mobile Application
 - Farmverse Mobile Application
--Food delivery Application
--TaskGen WebApplication
--Iris Flower Classifier
--Titanic Survival prediction
-![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
+- Food delivery Application
+- TaskGen WebApplication
+- Iris Flower Classifier
+- Titanic Survival prediction
+
 🏆 Achievements:
 - Full Stack Developer Intern @ Altrocks Tech
 - Open Source Contributor @ GSSoC 2026
+- Care Hackathon FINALIST-Top 20
 
 ## 🌐 Connect With Me
 
