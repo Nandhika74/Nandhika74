@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhika74&show_icons=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandhika74)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhika74&layout=compact)
 
 ## 🌐 Connect With Me
